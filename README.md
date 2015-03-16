@@ -9,5 +9,3 @@ Feautures:
 What I am still working on:
 - Round count of the highlight
 
-Copyright to the logo goes out to Turtle Entertainment and deStrO.
-Copyright for the data goes out to deStrO
